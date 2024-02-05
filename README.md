@@ -110,11 +110,3 @@ In both cases, Vercel runs `next build` to build the project. Since running `nex
 | Preview            | `preview`     |
 | Development        | `development` |
 
-## Contributing
-
-Thanks for showing interest in contributing to Developer DAO. Before submitting any changes please review our contributing guidelines in [CONTRIBUTING.md](.github/CONTRIBUTING.md).
-
-
-</div>
-
-[discord]: https://discord.gg/ASjBPJuNhS
